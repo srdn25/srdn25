@@ -1,8 +1,7 @@
 - 👋 Hi, I’m a software engineer 
-- 👀 I’m interested in new interesting opportunities
-- 🌱 I’m currently learning backend engineering (Node.js, AWS, PostgreSQL) also I sometimes work with frontend
-- 💞️ I’m looking to collaborate on popular libraries or info collecting or for creating a messenger bot
-- 📫 How to reach me, you can create an issue or just write a comment here. Or just send me an email at srdn2417@gmail.com
+- 👀 I’m interested in new opportunities
+- 💞️ I’m looking to collaborate on popular libraries
+- 📫 How to reach me, you can create an issue or write a comment here. Or send me an email at srdn2417@gmail.com
 
 ## My contacts
 
@@ -10,11 +9,10 @@ E-Mail: srdn2417@gmail.com
 
 ## About me
 
-As an experienced software engineer with a passion for innovation, I have been honing
-my skills since 2016. My work is reflected in my projects, which can be found on my
-LinkedIn profile. I strive to approach each project with creativity and outside-the-box
-thinking to deliver exceptional results. My positive attitude and friendly demeanor make
-me a valuable asset to any team
+Senior Software Engineer with 9+ years of experience in Node.js, React, AWS, and microservices architecture.
+Proven track record of reducing bug counts and improving performance.
+Skilled in Docker, Kubernetes, and CI/CD pipelines.
+My positive attitude and friendly demeanor make me a valuable asset to any team
 
 ---
 ## Professional skills
@@ -24,6 +22,7 @@ me a valuable asset to any team
 - __SQL__;
 - __HTML__;
 - __Python__;
+- __C#__;
 
 ## Technologies:
 - __NodeJS__;
@@ -60,6 +59,7 @@ me a valuable asset to any team
 ## Clouds:
 - __AWS__ (ECS, EC2, IAM, S3, RDS, Lambda, DynamoDB, SQS, Lighsail, Route53);
 - __GCP__ (Filestore);
+- __Azure__ (Pipeline, DevOps, Repos, Boards, Artifacts);
 
   ---
   ## Reasons for working with me
